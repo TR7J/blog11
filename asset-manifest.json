@@ -1,20 +1,23 @@
 {
   "files": {
     "main.css": "/blog11/static/css/main.d8d00b2e.css",
-    "main.js": "/blog11/static/js/main.e5d6b766.js",
+    "main.js": "/blog11/static/js/main.bc7251e4.js",
     "static/media/tech.jpg": "/blog11/static/media/tech.22b99ca95a40506a6437.jpg",
+    "static/media/pen-paper.jpg": "/blog11/static/media/pen-paper.06388eace79f3f8b3910.jpg",
     "static/media/style.jpg": "/blog11/static/media/style.c2642d308badd15a37de.jpg",
     "static/media/politics.jpg": "/blog11/static/media/politics.7dbed29f966f3c94b085.jpg",
     "static/media/travel.jpg": "/blog11/static/media/travel.a57e629e0261aceaa6ff.jpg",
     "static/media/life.jpg": "/blog11/static/media/life.31dbfaac217f963633a0.jpg",
     "static/media/music.jpg": "/blog11/static/media/music.1b4755ef8ba4bf97bf02.jpg",
     "static/media/sports.jpg": "/blog11/static/media/sports.8476eac31b95dd9571bf.jpg",
+    "static/media/artist.jpg": "/blog11/static/media/artist.dfb47cbb1348bbf223c3.jpg",
+    "static/media/sunrise.jpg": "/blog11/static/media/sunrise.45fc612dbebf2e846be2.jpg",
     "index.html": "/blog11/index.html",
     "main.d8d00b2e.css.map": "/blog11/static/css/main.d8d00b2e.css.map",
-    "main.e5d6b766.js.map": "/blog11/static/js/main.e5d6b766.js.map"
+    "main.bc7251e4.js.map": "/blog11/static/js/main.bc7251e4.js.map"
   },
   "entrypoints": [
     "static/css/main.d8d00b2e.css",
-    "static/js/main.e5d6b766.js"
+    "static/js/main.bc7251e4.js"
   ]
 }
